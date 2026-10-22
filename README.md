@@ -3,56 +3,56 @@
 
 ### Ejercicio01
 - Analice el proyecto en el IDE Netbeans llamado Ejercicio01, donde se presenta la solución a la expresión:
-> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller3/main/imagenes/ejercicio1.png)
+> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller03/refs/heads/main/imagenes/ejercicio1.png)
 
 ### Ejercicio02
 - Analice y complete el proyecto en el IDE Netbeans llamado Ejercicio02
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller3/main/imagenes/ejercicio2.png)
+> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller03/refs/heads/main/imagenes/ejercicio2.png)
 
 ### Ejercicio03
 - Complete el proyecto en el IDE Netbeans llamado Ejercicio03
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller3/main/imagenes/ejercicio3.png)
+> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller03/refs/heads/main/imagenes/ejercicio3.png)
 
 ### Ejercicio04
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio04
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller3/main/imagenes/ejercicio4.png)
+> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller03/refs/heads/main/imagenes/ejercicio4.png)
 
 ### Ejercicio05
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio05
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller3/main/imagenes/ejercicio5.png)
+> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller03/refs/heads/main/imagenes/ejercicio5.png)
 
 
 ### Ejercicio06
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio06
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller3/main/imagenes/ejercicio6.png)
+> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller03/refs/heads/main/imagenes/ejercicio6.png)
 
 
 ### Ejercicio07
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio07
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller3/main/imagenes/ejercicio7.png)
+> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller03/refs/heads/main/imagenes/ejercicio7.png)
 
 
 ### Ejercicio08
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio08
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller3/main/imagenes/ejercicio8.png)
+> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller03/refs/heads/main/imagenes/ejercicio8.png)
 
 
 
 ### Ejercicio09
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio09
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
-> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller3/main/imagenes/ejercicio9.png)
+> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller03/refs/heads/main/imagenes/ejercicio9.png)
 
 
 ### Ejercicio10
 - Crear un proyecto en el IDE Netbeans llamado Ejercicio10
 - En el método principal, **main**,  de la clase que se crea por defecto; genere y presente el resultado en pantalla de la siguiente expresión:
 
-> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller3/main/imagenes/ejercicio10.png)
+> ![](https://raw.githubusercontent.com/Into-Programacion-P-Oct26-Feb27/taller03/refs/heads/main/imagenes/ejercicio10.png)
