@@ -16,6 +16,7 @@
   para las variables.
 - Desarrolle cada ejercicio en el proyecto NetBeans correspondiente.
 - Registre y publique los cambios en su repositorio de GitHub.
+- Variables y tipos de datos: Cada ejercicio deberá utilizar al menos tres variables. En los ejercicios del 06 al 10 se utilizarán al menos cuatro. Las variables deberán almacenar resultados parciales y el resultado final de las expresiones matemáticas, empleando los tipos de datos correspondientes. No se permite resolver toda la expresión en una sola instrucción.
 ---
 
 ### Ejercicio01
