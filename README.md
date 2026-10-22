@@ -1,5 +1,22 @@
 # Taller3
 * Taller 3 (Laboratorio): Manejo de tipos de datos, operadores y expresiones en lenguajes de alto nivel
+---
+## Recomendaciones generales
+
+- Analice cada expresión matemática antes de implementarla en Java.
+- Identifique los operadores y tipos de datos que intervienen.
+- Almacene el resultado de cada expresión en una variable del tipo
+  correspondiente (`int`, `double` o `boolean`).
+- Utilice variables auxiliares cuando lo considere necesario.
+- Respete la precedencia de los operadores y el uso de paréntesis.
+- Presente el resultado de cada ejercicio utilizando
+  `System.out.println()`.
+- Verifique que los resultados obtenidos sean correctos.
+- Mantenga el código organizado y utilice nombres descriptivos
+  para las variables.
+- Desarrolle cada ejercicio en el proyecto NetBeans correspondiente.
+- Registre y publique los cambios en su repositorio de GitHub.
+---
 
 ### Ejercicio01
 - Analice el proyecto en el IDE Netbeans llamado Ejercicio01, donde se presenta la solución a la expresión:
