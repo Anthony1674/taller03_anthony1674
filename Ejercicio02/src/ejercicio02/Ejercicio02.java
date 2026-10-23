@@ -7,7 +7,7 @@ package ejercicio02;
 
 /**
  *
- * @author reroes
+ * @author anthony1674
  */
 public class Ejercicio02 {
 

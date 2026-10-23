@@ -7,7 +7,7 @@ package ejercicio01;
 
 /**
  *
- * @author su-usuario-github
+ * @author anthony1674
  */
 public class Ejercicio01 {
 
