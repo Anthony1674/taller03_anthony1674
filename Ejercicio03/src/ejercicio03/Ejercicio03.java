@@ -5,18 +5,16 @@
  */
 package ejercicio03;
 
-/**
- *
- * @author reroes
- */
 public class Ejercicio03 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
-        
+        // (25 + 15) / 8 + raiz de 49 + 2.5
+        double numerador = 25 + 15;        // 40
+        double division = numerador / 8;   // 5
+        double raiz = Math.sqrt(49);       // 7
+        double resultado = division + raiz + 2.5; // 5 + 7 + 2.5
+
+        System.out.println("Expresion: (25 + 15) / 8 + sqrt(49) + 2.5");
+        System.out.println("Resultado = " + resultado);
     }
-    
 }
